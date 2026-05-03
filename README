@@ -1,0 +1,21 @@
+# Cryptography and Blockchain Fundamentals Assignment
+
+A menu‑driven Python application that:
+- computes SHA‑256 hashes
+- creates and verifies digital signatures using RSA
+- manages a simple vehicle registration system with no duplicate number plates
+
+## How to run
+
+1. Install Python (3.7 or higher)
+2. Install the required library:
+
+   ```bash
+   pip install cryptography
+   ```
+
+3. Run the program:
+
+   ```bash
+   python main.py
+   ```
