@@ -143,9 +143,9 @@ def verify_signature():
 # --- Menu Loop ---
 def main_menu():
     """Print the main menu."""
-    print("\n" + "=" * 50)
+    print("\n" + "-" * 50)
     print("    Cryptography and Blockchain Fundamentals")
-    print("=" * 50)
+    print("-" * 50)
     print("1. SHA‑256 Hash a message")
     print("2. Generate RSA key pair")
     print("3. Sign a message")
